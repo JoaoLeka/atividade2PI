@@ -1,0 +1,109 @@
+.div1{
+background-color: rgb(177, 121, 121) ;
+width: 75vw;
+height: 285px;
+border: black 10px;
+border-style: solid;
+display: flex;
+justify-content: center;
+
+}
+
+
+.div2{
+background-color: white;
+color: rgb(83, 83, 236);
+height: 45%;
+width: 80%;
+margin-top: 40px;
+border: rgb(11, 11, 136) 10px;
+border-style: solid;
+display: flex;
+justify-content: center;
+padding-top: 55px;
+font-size: 25px;
+font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+
+.div3{
+
+
+display: flex;
+flex-direction: column;
+justify-content: center;
+margin-top: 50px;
+
+}
+
+
+.div4{
+background-color: blue;
+width: 70%;
+height: 30px;
+margin-left: 200px;
+
+
+}
+.div5{
+
+    background-color: purple;
+    width: 40%;
+    height: 30px;
+    margin-left: 400px;
+
+}
+.div6{
+
+
+
+    background-color: green;
+    width: 55%;
+    height: 30px;
+    margin-left: 300px;
+}
+
+
+.div7{
+    background-color: yellow;
+    width: 48%;
+    height: 30px;
+    margin-left: 350px;
+
+
+
+}
+
+.div8{
+    display: flex;
+    
+    margin-top: 50px;
+
+
+}
+
+.div9{
+background-color: red;
+height: 30px;
+width: 40%;
+margin-left: 30px;
+
+}
+.div10{
+    background-color: rgb(56, 124, 98);
+    height: 30px;
+    width: 25%;
+
+
+
+}
+.div11{
+
+    background-color: rgb(4, 255, 25);
+    height: 30px;
+    width: 33%;
+
+
+}
